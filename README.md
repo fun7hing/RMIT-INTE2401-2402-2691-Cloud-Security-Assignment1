@@ -2,6 +2,7 @@
 I'm a PhD student in computer science, currently tutoring coursework part-time to support my studies. The assignments in this repository are ones I've tutored and have received high scores. If you have any questions about coursework, please contact me. I can guarantee the best value for money. 
 
 WeChat: Fun7hing 
+
 Discord: fun7hing
 
 <img width="970" height="1342" alt="image" src="https://github.com/user-attachments/assets/a988d60e-fba4-4346-ab0e-c45c2030f526" />
