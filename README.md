@@ -1,4 +1,5 @@
 # RMIT-INTE2401-2402-2691-Cloud-Security-Assignment1
+
 The objective of Assignment 1 is evaluating your knowledge on the topics covered in Lecture 1-4. Topics include Basic Security Techniques, Secret Key Encryption Techniques, and Public-Key Techniques for Cloud Computing. Assignment 1 will focus on developing your abilities in application of knowledge, critical analysis and decision making. Assignment 1 contains several problems related to the topics mentioned above. You are required to prepare the solutions and upload them as a single PDF or Word
 document in CANVAS.
 =============================
