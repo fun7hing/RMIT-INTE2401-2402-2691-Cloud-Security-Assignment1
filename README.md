@@ -1,7 +1,11 @@
 # RMIT-INTE2401-2402-2691-Cloud-Security-Assignment1
-I'm a PhD student in computer science, currently tutoring coursework part-time to support my studies. The assignments in this repository are ones I've tutored and have received high scores. If you have any questions about coursework, please contact me. I can guarantee the best value for money. 
+The objective of Assignment 1 is evaluating your knowledge on the topics covered in Lecture 1-4. Topics include Basic Security Techniques, Secret Key Encryption Techniques, and Public-Key Techniques for Cloud Computing. Assignment 1 will focus on developing your abilities in application of knowledge, critical analysis and decision making. Assignment 1 contains several problems related to the topics mentioned above. You are required to prepare the solutions and upload them as a single PDF or Word
+document in CANVAS.
+=============================
+I'm a PhD student in computer science, currently tutoring coursework part-time to support my studies. The assignments in this repository are ones I've tutored and have received high scores. If you have any questions about coursework, please contact me. 
+我对计算机、网安、信息科学相关课程非常熟悉，如果你需要帮助，请联系我
 
-WeChat: Fun7hing 
+微信WeChat: Fun7hing 
 
 Discord: fun7hing
 
